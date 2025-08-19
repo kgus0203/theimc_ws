@@ -1,0 +1,2 @@
+Invoking command in '/home/jeff/theimc_ws/build/theimcbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimcbot_gazebo -- -j4 -l4
+Invoked command in '/home/jeff/theimc_ws/build/theimcbot_gazebo' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimcbot_gazebo -- -j4 -l4

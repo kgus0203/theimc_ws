@@ -1,0 +1,17 @@
+[1.622s] Invoking command in '/home/jeff/theimc_ws/build/theimc_bringup': PYTHONPATH=/home/jeff/theimc_ws/build/theimc_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeff/theimc_ws/install/theimc_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jeff/theimc_ws/build/theimc_bringup/build --no-deps symlink_data
+[2.423s] running develop
+[2.820s] running egg_info
+[2.821s] writing theimc_bringup.egg-info/PKG-INFO
+[2.821s] writing dependency_links to theimc_bringup.egg-info/dependency_links.txt
+[2.821s] writing entry points to theimc_bringup.egg-info/entry_points.txt
+[2.822s] writing requirements to theimc_bringup.egg-info/requires.txt
+[2.822s] writing top-level names to theimc_bringup.egg-info/top_level.txt
+[2.825s] reading manifest file 'theimc_bringup.egg-info/SOURCES.txt'
+[2.828s] writing manifest file 'theimc_bringup.egg-info/SOURCES.txt'
+[2.831s] running build_ext
+[2.831s] Creating /home/jeff/theimc_ws/install/theimc_bringup/lib/python3.10/site-packages/theimc-bringup.egg-link (link to .)
+[2.833s] Installing bringup_node script to /home/jeff/theimc_ws/install/theimc_bringup/bin
+[2.834s] 
+[2.834s] Installed /home/jeff/theimc_ws/build/theimc_bringup
+[2.834s] running symlink_data
+[2.902s] Invoked command in '/home/jeff/theimc_ws/build/theimc_bringup' returned '0': PYTHONPATH=/home/jeff/theimc_ws/build/theimc_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeff/theimc_ws/install/theimc_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jeff/theimc_ws/build/theimc_bringup/build --no-deps symlink_data

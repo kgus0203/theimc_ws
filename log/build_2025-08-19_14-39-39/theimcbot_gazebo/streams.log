@@ -1,0 +1,150 @@
+[0.552s] Invoking command in '/home/jeff/theimc_ws/build/theimcbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake /home/jeff/theimc_ws/src/theimc/theimc_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jeff/theimc_ws/install/theimcbot_gazebo
+[0.743s] -- The C compiler identification is GNU 11.4.0
+[0.878s] -- The CXX compiler identification is GNU 11.4.0
+[0.899s] -- Detecting C compiler ABI info
+[1.065s] -- Detecting C compiler ABI info - done
+[1.088s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.090s] -- Detecting C compile features
+[1.092s] -- Detecting C compile features - done
+[1.102s] -- Detecting CXX compiler ABI info
+[1.296s] -- Detecting CXX compiler ABI info - done
+[1.322s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.323s] -- Detecting CXX compile features
+[1.325s] -- Detecting CXX compile features - done
+[1.333s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.756s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.990s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.090s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.293s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.323s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.374s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.451s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.548s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.779s] -- Found nav_msgs: 4.9.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[2.848s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[3.031s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.040s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.332s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.390s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.455s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.486s] -- Looking for pthread.h
+[3.597s] -- Looking for pthread.h - found
+[3.597s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.696s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.698s] -- Found Threads: TRUE  
+[3.877s] -- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[3.967s] -- Found tf2: 0.25.13 (/opt/ros/humble/share/tf2/cmake)
+[4.006s] -- Found cartographer_ros: 2.0.9002 (/opt/ros/humble/share/cartographer_ros/cmake)
+[4.105s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: iostreams 
+[4.335s] -- Checking for module 'eigen3'
+[4.355s] --   Found eigen3, version 3.4.0
+[4.406s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[4.406s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[4.483s] -- Checking for module 'flann'
+[4.508s] --   Found flann, version 1.9.1
+[4.585s] -- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  
+[4.585s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[6.187s] -- Checking for module 'libusb-1.0'
+[6.208s] --   Found libusb-1.0, version 1.0.25
+[6.266s] -- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+[6.267s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[6.359s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[6.604s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[6.615s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[6.630s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[6.887s] -- Found Qhull version 8.0.2
+[7.134s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[7.367s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[7.369s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[7.371s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[7.375s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[7.379s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[7.382s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[7.382s] -- Found PCL_2D: /usr/include/pcl-1.12  
+[7.383s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.12  
+[7.386s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[7.388s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[7.391s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[7.393s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[7.396s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[7.398s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[7.400s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[7.406s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[7.408s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[7.411s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[7.414s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[7.416s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[7.418s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  
+[7.419s] -- Found PCL_MODELER: /usr/include/pcl-1.12  
+[7.422s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  
+[7.424s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[7.427s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[8.098s] -- Found slam_toolbox: 2.6.10 (/opt/ros/humble/share/slam_toolbox/cmake)
+[8.169s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[8.172s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[8.173s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[8.324s] -- Setting assimp_DIR to: '/opt/ros/humble/share/rviz_assimp_vendor/cmake/../../../opt/rviz_assimp_vendor/lib/cmake/assimp-4.1'
+[8.347s] -- Setting OGRE_DIR to: '/opt/ros/humble/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[8.353s] -- Found OGRE
+[8.353s] --   static     : OFF
+[8.354s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[8.354s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[8.354s] --   media      : /opt/ros/humble/opt/rviz_ogre_vendor/share/OGRE/Media
+[8.354s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[8.354s] -- OGRE_LIBRARY_DIRS: /opt/ros/humble/opt/rviz_ogre_vendor/lib
+[8.355s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[8.355s] -- OGRE_PLUGIN_DIR: /opt/ros/humble/opt/rviz_ogre_vendor/lib/OGRE
+[8.355s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[8.355s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[8.355s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[8.355s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[8.367s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[8.372s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+[8.419s] -- Found X11: /usr/include   
+[8.598s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[8.939s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[9.114s] -- Added test 'flake8' to check Python code syntax and style conventions
+[9.116s] -- Added test 'lint_cmake' to check CMake code style
+[9.117s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[9.120s] -- Added test 'xmllint' to check XML markup files
+[9.122s] -- Configuring done
+[9.137s] -- Generating done
+[9.145s] -- Build files have been written to: /home/jeff/theimc_ws/build/theimcbot_gazebo
+[9.180s] Invoked command in '/home/jeff/theimc_ws/build/theimcbot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake /home/jeff/theimc_ws/src/theimc/theimc_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jeff/theimc_ws/install/theimcbot_gazebo
+[9.183s] Invoking command in '/home/jeff/theimc_ws/build/theimcbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimcbot_gazebo -- -j4 -l4
+[9.248s] Invoked command in '/home/jeff/theimc_ws/build/theimcbot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimcbot_gazebo -- -j4 -l4
+[9.251s] Invoking command in '/home/jeff/theimc_ws/build/theimcbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimcbot_gazebo
+[9.260s] -- Install configuration: ""
+[9.261s] -- Execute custom install script
+[9.262s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//launch/theimcbot_cartographer.launch.py
+[9.274s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//launch/theimcbot_nav2.launch.py
+[9.285s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//launch/theimcbot_slamtoolbox.launch.py
+[9.298s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//launch/theimcbot_spawn.launch.py
+[9.310s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//launch/theimcbot_spawn_space.launch.py
+[9.323s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//params/theimc_cartographer_gazebo.lua
+[9.336s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//params/theimc_nav2_params.yaml
+[9.350s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//rviz/nav2_config.rviz
+[9.364s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//rviz/theimcbot_urdf.rviz
+[9.378s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//rviz/theimcbot_urdf_map.rviz
+[9.392s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//urdf/theimcbot_core.xacro
+[9.406s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//urdf/theimcbot_gazebo.xacro
+[9.419s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//urdf/theimcbot_urdf_gazebo.xacro
+[9.432s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//worlds/smartfarm.world
+[9.446s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//worlds/spb_building_theimcbot.world
+[9.458s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo//worlds/theimcbot_empty_space.world
+[9.471s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/ament_index/resource_index/package_run_dependencies/theimcbot_gazebo
+[9.484s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/ament_index/resource_index/parent_prefix_path/theimcbot_gazebo
+[9.497s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/environment/ament_prefix_path.sh
+[9.510s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/environment/ament_prefix_path.dsv
+[9.523s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/environment/path.sh
+[9.536s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/environment/path.dsv
+[9.550s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/local_setup.bash
+[9.562s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/local_setup.sh
+[9.574s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/local_setup.zsh
+[9.586s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/local_setup.dsv
+[9.598s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/package.dsv
+[9.612s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/ament_index/resource_index/packages/theimcbot_gazebo
+[9.625s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/cmake/theimcbot_gazeboConfig.cmake
+[9.637s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/cmake/theimcbot_gazeboConfig-version.cmake
+[9.652s] -- Symlinking: /home/jeff/theimc_ws/install/theimcbot_gazebo/share/theimcbot_gazebo/package.xml
+[9.668s] Invoked command in '/home/jeff/theimc_ws/build/theimcbot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimcbot_gazebo

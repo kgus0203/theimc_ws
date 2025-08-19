@@ -1,0 +1,51 @@
+[0.021s] Invoking command in '/home/jeff/theimc_ws/build/theimc_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jeff/theimc_ws/src/theimc/theimc_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jeff/theimc_ws/install/theimc_description
+[0.098s] -- The C compiler identification is GNU 11.4.0
+[0.197s] -- The CXX compiler identification is GNU 11.4.0
+[0.213s] -- Detecting C compiler ABI info
+[0.314s] -- Detecting C compiler ABI info - done
+[0.333s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.334s] -- Detecting C compile features
+[0.334s] -- Detecting C compile features - done
+[0.339s] -- Detecting CXX compiler ABI info
+[0.467s] -- Detecting CXX compiler ABI info - done
+[0.485s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.485s] -- Detecting CXX compile features
+[0.486s] -- Detecting CXX compile features - done
+[0.492s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.747s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.860s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.909s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.988s] -- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+[0.992s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.159s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.160s] -- Added test 'lint_cmake' to check CMake code style
+[1.161s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.164s] -- Added test 'xmllint' to check XML markup files
+[1.167s] -- Configuring done
+[1.176s] -- Generating done
+[1.180s] -- Build files have been written to: /home/jeff/theimc_ws/build/theimc_description
+[1.193s] Invoked command in '/home/jeff/theimc_ws/build/theimc_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jeff/theimc_ws/src/theimc/theimc_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jeff/theimc_ws/install/theimc_description
+[1.195s] Invoking command in '/home/jeff/theimc_ws/build/theimc_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc_description -- -j4 -l4
+[1.245s] Invoked command in '/home/jeff/theimc_ws/build/theimc_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc_description -- -j4 -l4
+[1.258s] Invoking command in '/home/jeff/theimc_ws/build/theimc_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc_description
+[1.267s] -- Install configuration: ""
+[1.267s] -- Execute custom install script
+[1.268s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/launch/theimc_description.launch.py
+[1.279s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/rviz/model.rviz
+[1.290s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/urdf/theimc.urdf
+[1.301s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/ament_index/resource_index/package_run_dependencies/theimc_description
+[1.313s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/ament_index/resource_index/parent_prefix_path/theimc_description
+[1.324s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/environment/ament_prefix_path.sh
+[1.337s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/environment/ament_prefix_path.dsv
+[1.348s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/environment/path.sh
+[1.360s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/environment/path.dsv
+[1.372s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/local_setup.bash
+[1.384s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/local_setup.sh
+[1.396s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/local_setup.zsh
+[1.407s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/local_setup.dsv
+[1.420s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/package.dsv
+[1.433s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/ament_index/resource_index/packages/theimc_description
+[1.446s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/cmake/theimc_descriptionConfig.cmake
+[1.458s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/cmake/theimc_descriptionConfig-version.cmake
+[1.470s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/package.xml
+[1.484s] Invoked command in '/home/jeff/theimc_ws/build/theimc_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc_description

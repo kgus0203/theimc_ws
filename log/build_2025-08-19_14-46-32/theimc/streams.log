@@ -1,0 +1,21 @@
+[0.050s] Invoking command in '/home/jeff/theimc_ws/build/theimc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc -- -j4 -l4
+[0.491s] Invoked command in '/home/jeff/theimc_ws/build/theimc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc -- -j4 -l4
+[0.512s] Invoking command in '/home/jeff/theimc_ws/build/theimc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc
+[0.530s] -- Install configuration: ""
+[0.532s] -- Execute custom install script
+[0.532s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/ament_index/resource_index/package_run_dependencies/theimc
+[0.532s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/ament_index/resource_index/parent_prefix_path/theimc
+[0.533s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/environment/ament_prefix_path.sh
+[0.533s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/environment/ament_prefix_path.dsv
+[0.534s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/environment/path.sh
+[0.535s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/environment/path.dsv
+[0.535s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/local_setup.bash
+[0.536s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/local_setup.sh
+[0.537s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/local_setup.zsh
+[0.538s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/local_setup.dsv
+[0.539s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/package.dsv
+[0.555s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/ament_index/resource_index/packages/theimc
+[0.557s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/cmake/theimcConfig.cmake
+[0.560s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/cmake/theimcConfig-version.cmake
+[0.560s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc/share/theimc/package.xml
+[0.563s] Invoked command in '/home/jeff/theimc_ws/build/theimc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc

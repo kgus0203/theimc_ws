@@ -1,0 +1,1 @@
+/home/jeff/theimc_ws/build/theimc_navigation2/ament_cmake_environment_hooks/local_setup.sh

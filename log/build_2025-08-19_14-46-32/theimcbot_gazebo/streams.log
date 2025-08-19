@@ -1,0 +1,5 @@
+[0.482s] Invoking command in '/home/jeff/theimc_ws/build/theimcbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimcbot_gazebo -- -j4 -l4
+[0.529s] [0mCMake Error: The source directory "/home/jeff/theimc_ws/src/theimc/theimc_gazebo" does not exist.
+[0.530s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.533s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.574s] Invoked command in '/home/jeff/theimc_ws/build/theimcbot_gazebo' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimcbot_gazebo -- -j4 -l4

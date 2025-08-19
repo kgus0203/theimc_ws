@@ -1,0 +1,25 @@
+[0.027s] Invoking command in '/home/jeff/theimc_ws/build/theimc_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc_description -- -j4 -l4
+[0.468s] Invoked command in '/home/jeff/theimc_ws/build/theimc_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc_description -- -j4 -l4
+[0.481s] Invoking command in '/home/jeff/theimc_ws/build/theimc_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc_description
+[0.493s] -- Install configuration: ""
+[0.494s] -- Execute custom install script
+[0.495s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/launch/theimc_description.launch.py
+[0.495s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/rviz/model.rviz
+[0.496s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/rviz/theimc.rviz
+[0.496s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/urdf/theimc.urdf
+[0.496s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/ament_index/resource_index/package_run_dependencies/theimc_description
+[0.497s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/ament_index/resource_index/parent_prefix_path/theimc_description
+[0.497s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/environment/ament_prefix_path.sh
+[0.497s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/environment/ament_prefix_path.dsv
+[0.498s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/environment/path.sh
+[0.498s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/environment/path.dsv
+[0.498s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/local_setup.bash
+[0.499s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/local_setup.sh
+[0.499s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/local_setup.zsh
+[0.500s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/local_setup.dsv
+[0.500s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/package.dsv
+[0.512s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/ament_index/resource_index/packages/theimc_description
+[0.513s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/cmake/theimc_descriptionConfig.cmake
+[0.513s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/cmake/theimc_descriptionConfig-version.cmake
+[0.513s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_description/share/theimc_description/package.xml
+[0.516s] Invoked command in '/home/jeff/theimc_ws/build/theimc_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc_description

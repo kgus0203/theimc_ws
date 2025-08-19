@@ -1,0 +1,4 @@
+source;share/theimc_cartographer/local_setup.bash
+source;share/theimc_cartographer/local_setup.dsv
+source;share/theimc_cartographer/local_setup.sh
+source;share/theimc_cartographer/local_setup.zsh

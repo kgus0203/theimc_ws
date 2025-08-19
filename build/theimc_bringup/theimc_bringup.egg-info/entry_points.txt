@@ -1,0 +1,3 @@
+[console_scripts]
+bringup_node = theimc_bringup.theimc_bringup:main
+

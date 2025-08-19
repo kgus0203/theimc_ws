@@ -1,0 +1,3 @@
+[console_scripts]
+teleop_keyboard = theimc_teleop.theimc_teleop_keyboard:main
+

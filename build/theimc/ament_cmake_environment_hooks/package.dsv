@@ -1,0 +1,4 @@
+source;share/theimc/local_setup.bash
+source;share/theimc/local_setup.dsv
+source;share/theimc/local_setup.sh
+source;share/theimc/local_setup.zsh

@@ -1,0 +1,24 @@
+[0.454s] Invoking command in '/home/jeff/theimc_ws/build/theimc_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc_cartographer -- -j4 -l4
+[0.980s] Invoked command in '/home/jeff/theimc_ws/build/theimc_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc_cartographer -- -j4 -l4
+[0.988s] Invoking command in '/home/jeff/theimc_ws/build/theimc_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc_cartographer
+[1.005s] -- Install configuration: ""
+[1.006s] -- Execute custom install script
+[1.006s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/params/theimc_cartographer.lua
+[1.028s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/launch/theimc_cartographer.launch.py
+[1.028s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/rviz/theimc_cartographer.rviz
+[1.028s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/ament_index/resource_index/package_run_dependencies/theimc_cartographer
+[1.029s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/ament_index/resource_index/parent_prefix_path/theimc_cartographer
+[1.029s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/environment/ament_prefix_path.sh
+[1.029s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/environment/ament_prefix_path.dsv
+[1.030s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/environment/path.sh
+[1.030s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/environment/path.dsv
+[1.030s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/local_setup.bash
+[1.030s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/local_setup.sh
+[1.030s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/local_setup.zsh
+[1.030s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/local_setup.dsv
+[1.031s] -- Symlinking: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/package.dsv
+[1.050s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/ament_index/resource_index/packages/theimc_cartographer
+[1.053s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/cmake/theimc_cartographerConfig.cmake
+[1.053s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/cmake/theimc_cartographerConfig-version.cmake
+[1.053s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/theimc_cartographer/share/theimc_cartographer/package.xml
+[1.077s] Invoked command in '/home/jeff/theimc_ws/build/theimc_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc_cartographer

@@ -1,0 +1,24 @@
+[0.043s] Invoking command in '/home/jeff/theimc_ws/build/slampibot_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/slampibot_cartographer -- -j4 -l4
+[0.860s] Invoked command in '/home/jeff/theimc_ws/build/slampibot_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/slampibot_cartographer -- -j4 -l4
+[0.874s] Invoking command in '/home/jeff/theimc_ws/build/slampibot_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/slampibot_cartographer
+[0.890s] -- Install configuration: ""
+[0.890s] -- Execute custom install script
+[0.890s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/params/spb_cartographer.lua
+[0.891s] -- Symlinking: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/launch/theimc_cartographer.launch.py
+[0.908s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/rviz/theimc_cartographer.rviz
+[0.908s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/ament_index/resource_index/package_run_dependencies/slampibot_cartographer
+[0.908s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/ament_index/resource_index/parent_prefix_path/slampibot_cartographer
+[0.909s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/environment/ament_prefix_path.sh
+[0.909s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/environment/ament_prefix_path.dsv
+[0.909s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/environment/path.sh
+[0.909s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/environment/path.dsv
+[0.910s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/local_setup.bash
+[0.910s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/local_setup.sh
+[0.910s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/local_setup.zsh
+[0.910s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/local_setup.dsv
+[0.910s] -- Symlinking: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/package.dsv
+[0.926s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/ament_index/resource_index/packages/slampibot_cartographer
+[0.930s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/cmake/slampibot_cartographerConfig.cmake
+[0.932s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/cmake/slampibot_cartographerConfig-version.cmake
+[0.932s] -- Up-to-date symlink: /home/jeff/theimc_ws/install/slampibot_cartographer/share/slampibot_cartographer/package.xml
+[0.961s] Invoked command in '/home/jeff/theimc_ws/build/slampibot_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/slampibot_cartographer

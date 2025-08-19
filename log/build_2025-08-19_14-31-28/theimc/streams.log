@@ -1,0 +1,44 @@
+[0.042s] Invoking command in '/home/jeff/theimc_ws/build/theimc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake /home/jeff/theimc_ws/src/theimc/theimc -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jeff/theimc_ws/install/theimc
+[0.556s] -- The C compiler identification is GNU 11.4.0
+[0.556s] -- The CXX compiler identification is GNU 11.4.0
+[0.557s] -- Detecting C compiler ABI info
+[0.630s] -- Detecting C compiler ABI info - done
+[0.656s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.661s] -- Detecting C compile features
+[0.666s] -- Detecting C compile features - done
+[0.678s] -- Detecting CXX compiler ABI info
+[0.897s] -- Detecting CXX compiler ABI info - done
+[0.919s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.920s] -- Detecting CXX compile features
+[0.923s] -- Detecting CXX compile features - done
+[0.939s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.378s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.577s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.724s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.015s] -- Added test 'lint_cmake' to check CMake code style
+[2.022s] -- Added test 'xmllint' to check XML markup files
+[2.029s] -- Configuring done
+[2.034s] -- Generating done
+[2.041s] -- Build files have been written to: /home/jeff/theimc_ws/build/theimc
+[2.052s] Invoked command in '/home/jeff/theimc_ws/build/theimc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake /home/jeff/theimc_ws/src/theimc/theimc -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jeff/theimc_ws/install/theimc
+[2.058s] Invoking command in '/home/jeff/theimc_ws/build/theimc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc -- -j4 -l4
+[2.136s] Invoked command in '/home/jeff/theimc_ws/build/theimc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --build /home/jeff/theimc_ws/build/theimc -- -j4 -l4
+[2.140s] Invoking command in '/home/jeff/theimc_ws/build/theimc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc
+[2.155s] -- Install configuration: ""
+[2.156s] -- Execute custom install script
+[2.157s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/ament_index/resource_index/package_run_dependencies/theimc
+[2.176s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/ament_index/resource_index/parent_prefix_path/theimc
+[2.197s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/environment/ament_prefix_path.sh
+[2.214s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/environment/ament_prefix_path.dsv
+[2.233s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/environment/path.sh
+[2.253s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/environment/path.dsv
+[2.273s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/local_setup.bash
+[2.292s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/local_setup.sh
+[2.311s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/local_setup.zsh
+[2.331s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/local_setup.dsv
+[2.354s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/package.dsv
+[2.374s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/ament_index/resource_index/packages/theimc
+[2.392s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/cmake/theimcConfig.cmake
+[2.411s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/cmake/theimcConfig-version.cmake
+[2.432s] -- Symlinking: /home/jeff/theimc_ws/install/theimc/share/theimc/package.xml
+[2.461s] Invoked command in '/home/jeff/theimc_ws/build/theimc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeff/theimc_ws/install/theimc_teleop:/opt/ros/humble /usr/bin/cmake --install /home/jeff/theimc_ws/build/theimc
