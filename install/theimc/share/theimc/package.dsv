@@ -1,8 +1,0 @@
-source;share/theimc/hook/cmake_prefix_path.ps1
-source;share/theimc/hook/cmake_prefix_path.dsv
-source;share/theimc/hook/cmake_prefix_path.sh
-source;share/theimc/local_setup.bash
-source;share/theimc/local_setup.dsv
-source;share/theimc/local_setup.ps1
-source;share/theimc/local_setup.sh
-source;share/theimc/local_setup.zsh
