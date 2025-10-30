@@ -10,11 +10,11 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
-  <depend>slampibot_bringup</depend>
-  <depend>slampibot_description</depend>
-  <depend>slampibot_cartographer</depend>
-  <depend>slampibot_navigation2</depend>
-  <depend>slampibot_teleop</depend>
+  <depend>theimc_bringup</depend>
+  <depend>theimc_description</depend>
+  <depend>theimc_cartographer</depend>
+  <depend>theimc_navigation2</depend>
+  <depend>theimc_teleop</depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
