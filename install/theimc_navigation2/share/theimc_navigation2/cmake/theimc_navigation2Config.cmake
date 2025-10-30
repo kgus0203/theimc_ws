@@ -1,1 +1,0 @@
-/home/jeff/theimc_ws/build/theimc_navigation2/ament_cmake_core/theimc_navigation2Config.cmake
